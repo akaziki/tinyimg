@@ -1,0 +1,9 @@
+{
+  "name": "tinyimg",
+  "version": "0.0.1",
+  "bin": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "md5": "^2.3.0"
+  }
+}
