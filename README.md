@@ -1,5 +1,3 @@
-GitHub地址
-
 # usage
 
 ## global install
